@@ -9,8 +9,8 @@ Aplikasi SIAKAD (Sistem Informasi Akademik) sederhana untuk mengelola data Dosen
 
 ### Penjelasan Class
 
-#### Diagram Arsitektur
-
+#### Diagram
+![Diagram](Dokumentasi/Diagram.png)
 
 #### Class Lecturer (Dosen)
 <pre>
@@ -99,31 +99,31 @@ models/ (Logika Data):
 Berikut adalah Dokumentasi berupa Screenshot saat program dijalankan di Browser.
 
 ### Tampilan Data Dosen Awal (READ)
-![1](Dokumentasi/01.png)
+![1](Dokumentasi/1.png)
 
 ### Tambah Data Dosen (CREATE)
-![2](Dokumentasi/01.png)
-![3](Dokumentasi/01.png)
+![2](Dokumentasi/2.png)
+![3](Dokumentasi/3.png)
 
 ### Edit Data Dosen (Update)
-![4](Dokumentasi/01.png)
-![5](Dokumentasi/01.png)
+![4](Dokumentasi/4.png)
+![5](Dokumentasi/5.png)
 
 ### Hapus Data Dosen (Delete)
-![6](Dokumentasi/01.png)
-![7](Dokumentasi/01.png)
+![6](Dokumentasi/6.png)
+![7](Dokumentasi/7.png)
 
 ### Tampilan Data Mata Kuliah Awal (READ + JOIN)
-![8](Dokumentasi/01.png)
+![8](Dokumentasi/8.png)
 
 ### Tambah Data Mata Kuliah (Create)
-![9](Dokumentasi/01.png)
-![10](Dokumentasi/01.png)
+![9](Dokumentasi/9.png)
+![10](Dokumentasi/10.png)
 
 ### Edit Data Mata Kuliah (Update)
-![11](Dokumentasi/01.png)
-![12](Dokumentasi/01.png)
+![11](Dokumentasi/11.png)
+![12](Dokumentasi/12.png)
 
 ### Hapus Data Mata Kuliah (Delete)
-![13](Dokumentasi/01.png)
-![14](Dokumentasi/01.png)
+![13](Dokumentasi/13.png)
+![14](Dokumentasi/14.png)
