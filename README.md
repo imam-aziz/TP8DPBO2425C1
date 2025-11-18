@@ -5,7 +5,7 @@
 
 ## 🔀 Penjelasan Desain dan Flow Program
 
-Aplikasi SIAKAD (Sistem Informasi Akademik) sederhana untuk mengelola data Dosen dan Mata Kuliah. Aplikasi ini dibangun menggunakan bahasa PHP Native dengan arsitektur MVC (Model-View-Controller) untuk memisahkan logika aplikasi, akses data, dan antarmuka pengguna.
+Aplikasi SIAKAD (Sistem Informasi Akademik) sederhana untuk mengelola data Dosen dan Mata Kuliah. Aplikasi ini dibangun menggunakan bahasa PHP Native dengan arsitektur MVC (Model-View-Controller)
 
 ### Penjelasan Class
 
